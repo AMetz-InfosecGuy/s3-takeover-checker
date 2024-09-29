@@ -11,12 +11,12 @@ Requirements:
 Installation:
 
 ```
-git clone https://github.com/AMetz-InfosecGuy/s3-takeover-checker.git
-cd s3-takeover-checker/
+git clone https://github.com/AMetz-InfosecGuy/tak3.git
+cd tak3/
 pip install -r requirements.txt
 ```
 Usage:
 
 ```
-python s3-takeover-checker.py -d example.com
+python check.py -d example.com
 ```
